@@ -147,10 +147,10 @@ body{
     display: flex;
     flex-direction: column;
     gap: 88px;
-}
-.card {
     width: 1102px;
     margin: 0 auto;
+}
+.card {
 }
 .card__text {
     color: #000;
